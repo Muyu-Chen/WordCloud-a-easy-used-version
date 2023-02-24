@@ -2,7 +2,13 @@
 /t
 \n
 \t
-text
+a
+an
+the
+!
+.
+oh
+ohhhh
 真的
 太
 去年
