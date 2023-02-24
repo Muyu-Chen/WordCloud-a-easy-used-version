@@ -13,7 +13,7 @@ It's same to 'README.md', but there just an English version
 program target: 
 1. read a determined column of form (xlsx) with sentence
 2. change the format to 'array'
-3. delate the sapce (Chinses only) and line breaks in the 'array' 
+3. delete the sapce (Chinses only) and line breaks in the 'array' 
 4. (Chinese only) depart diffierent words(if you donot use this, you can delete those codes)
 5. delete the stopping words (if you use English, you should find a stopping words list by yourself,
 I just provide some simple words like 'a', 'an', 'the'.
@@ -74,7 +74,7 @@ CommentArray=ToArray(strF,[4])
 #'[4]' means the column you choose to read
 CommentList=CommentArray.tolist()
 
-#delatting the line breaks in the 'array' 
+#deletting the line breaks in the 'array' 
 for x in CommentArray:
     WordsList.append(x.replace("\n"," "))
 
