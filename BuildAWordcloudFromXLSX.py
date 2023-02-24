@@ -17,10 +17,7 @@ program target:
 4. (Chinese only) depart diffierent words(if you donot use this, you can delete those codes)
 5. delete the stopping words (if you use English, you should find a stopping words list by yourself,
 I just provide some simple words like 'a', 'an', 'the'.
-6. draw a wordscloud by 'wordcloud' and save it as a file 'WordsCloudOutPut.png' 
-
-the process of this program:
-1. delete line breaks and change the format to '.txt' by use 'ToArray'
+6. draw a wordscloud by 'wordcloud' and save it as a file 'WordsCloudOutPut.jpg' 
 
 other notes:
 1. YOU HAVE TO CHANGE 'stopwordlist.txt' AND DELETE 'dictionary.txt' IF YOU DO NOT USE CHINESE !
