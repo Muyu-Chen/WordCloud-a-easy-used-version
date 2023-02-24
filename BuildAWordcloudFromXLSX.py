@@ -71,6 +71,7 @@ def seg_depart(sentence):
 
 WordsList=[]
 CommentArray=ToArray(strF,[4])
+#'[4]' means the column you choose to read
 CommentList=CommentArray.tolist()
 
 #delatting the line breaks in the 'array' 
