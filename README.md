@@ -7,6 +7,9 @@ Program target:
 5. delete the stopping words (if you use English, you should find a stopping words list by yourself, I just provide some simple words like 'a', 'an', 'the' in stopping words list.
 6. draw a wordscloud by 'wordcloud' and save it as a file 'WordsCloudOutPut.jpg' 
 
+![WordsCloud](https://github.com/user-attachments/assets/4385ef20-3e7d-43a2-9582-69565e89c4a7)
+
+
 Other notes:
 1. YOU HAVE TO CHANGE 'stopwordlist.txt' AND DELETE 'dictionary.txt' IF YOU DO NOT USE CHINESE !
 2. if there are anything wrong with the path, please change all relative path with absolute path.
